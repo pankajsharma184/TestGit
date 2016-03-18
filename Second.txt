@@ -1,1 +1,1 @@
-this is my second file to commit
+this is my second file to commit. I have made some changes to the second file
